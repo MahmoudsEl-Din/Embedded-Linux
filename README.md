@@ -6,12 +6,12 @@ This repository contains my submissions for the Embedded Linux tasks. Each task 
 
 ### Task 1: AdminLinux
 
-- **Directory:** `AdminLinux_Task1`
+- **Directory:** `Task1_AdminLinux`
 - **Description:** Implementation of various Linux tasks including Git and Linux commands.
 
 ### Task 2: Binary Search
 
-- **Directory:** `BinarySearch_Task2`
+- **Directory:** `Task2_BinarySearch`
 - **Description:** Implementation of the binary search algorithm in C, with user input.
 
 ...
@@ -25,11 +25,11 @@ Each task directory contains the necessary files and instructions for that speci
 ```
 .
 Embedded Linux/
-├── AdminLinux_Task1/
+├── Task1_AdminLinux/
     ├── script.sh
     ├── README.md         
     └── ...
-├── BinarySearch_Task2/
+├── Task2_BinarySearch/
     ├── binary_search.c
     ├── README.md         
     └── ...
