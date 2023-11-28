@@ -6,13 +6,14 @@ This project includes a C program that implements the binary search algorithm. A
 
 ### Implementation
 1. Navigate to the directory where you want to create your C program.
-   ```
-   cd /path/to/your/directory
+ ```
+ cd /path/to/your/directory
+```
 
 2. Use the vi editor to create a new C source file (e.g., binary_search.c).
-  ```
-  vi binary_search.c
-  ```
+```
+vi binary_search.c
+```
 
 3. Implement the binary search algorithm inside the binary_search function in C program.
 
