@@ -22,17 +22,17 @@ Each task directory contains the necessary files and instructions for that speci
 
 ## Directory Structure
 
-Embedded Linux/
 ```
-│
+.
+Embedded Linux/
 ├── AdminLinux_Task1/
-│ ├── script.sh
-│ ├── README.md
-│
+    ├── script.sh
+    ├── README.md         
+    └── ...
 ├── BinarySearch_Task2/
-│ ├── binary_search.c
-│ ├── README.md
-│
+    ├── binary_search.c
+    ├── README.md         
+    └── ...
 ```
 
 ## Author
