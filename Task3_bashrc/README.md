@@ -45,7 +45,7 @@ Execute the script from the terminal:
 ## Important Notes
 - The new variables will only be available in terminal sessions started after the script has run.
 - This script assumes the default location of `.bashrc` in the user's home directory.
-- The command to open a new terminal may vary depending on the terminal emulator used; it's set to `gnome-terminal` in this script.
+- The command to open a new terminal may vary depending on the terminal emulator used; it's set to `xfce4-terminal` in this script. if you use Ubuntu set it to `gnome-terminal`.
 
 ## Author
 
