@@ -14,6 +14,12 @@ This repository contains my submissions for the Embedded Linux tasks. Each task 
 - **Directory:** `Task2_BinarySearch`
 - **Description:** Implementation of the binary search algorithm in C, with user input.
 
+### Task 3: Bash Script for .bashrc Modification
+
+- **Directory:** `Task3_bachrc`
+- **Description:** This Bash script automates the process of appending new variables to the `.bashrc` file in the user's home directory. It checks for the existence of `.bashrc`, and if found, appends new variables and opens a new terminal window.
+
+
 ...
 
 ## How to Use
@@ -31,6 +37,10 @@ Embedded Linux/
     └── ...
 ├── Task2_BinarySearch/
     ├── binary_search.c
+    ├── README.md         
+    └── ...
+├── Task3_bashrc/
+    ├── Task3_bashrc.sh
     ├── README.md         
     └── ...
 ```
