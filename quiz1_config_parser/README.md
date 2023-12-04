@@ -1,5 +1,8 @@
 # Quiz 1 - Config Parser Script 
 
+![Quiz 1](https://i.imgur.com/mC1stYP.png "Quiz 1")
+
+
 ## Overview
 `config_parser.sh` is a bash script designed to parse a configuration file named `config.ini`. This script reads key-value pairs from the file and returns the value for a specified key.
 
