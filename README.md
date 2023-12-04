@@ -19,7 +19,10 @@ This repository contains my submissions for the Embedded Linux tasks. Each task 
 - **Directory:** `Task3_bachrc`
 - **Description:** This Bash script automates the process of appending new variables to the `.bashrc` file in the user's home directory. It checks for the existence of `.bashrc`, and if found, appends new variables and opens a new terminal window.
 
+### Quiz 1: Config Parser
 
+- **Directory:** `quiz1_config_parser`
+- **Description:** `config_parser.sh` is a bash script designed to parse a configuration file named `config.ini`. This script reads key-value pairs from the file and returns the value for a specified key.
 ...
 
 ## How to Use
@@ -42,6 +45,11 @@ Embedded Linux/
 ├── Task3_bashrc/
     ├── Task3_bashrc.sh
     ├── README.md         
+    └── ...
+├── quiz1_config_parser/
+    ├── config_parser.sh
+    ├── README.md
+    ├── config.ini           
     └── ...
 ```
 
