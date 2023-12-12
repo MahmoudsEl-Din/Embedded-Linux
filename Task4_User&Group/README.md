@@ -44,3 +44,4 @@ Replace UserName and GroupName with your chosen names.
 ## Note
 This script requires administrative privileges as it involves user and group manipulation on the system.
 
+![Task4](https://imgur.com/B6VxyqX "Task 4")
