@@ -24,7 +24,7 @@ This repository contains my submissions for the Embedded Linux tasks. Each task 
 - **Directory:** `quiz1_config_parser`
 - **Description:** `config_parser.sh` is a bash script designed to parse a configuration file named `config.ini`. This script reads key-value pairs from the file and returns the value for a specified key.
 
-### Task 4: Config Parser
+### Task 4: User and Group Creation Bash Script
 
 - **Directory:** `Task4_User&Group`
 - **Description:** Create a bash script automates the process of creating a new user and adding them to a specific group on a Linux system. It checks for the existence of both the user and group before attempting to create them and then displays relevant information..
